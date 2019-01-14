@@ -1,0 +1,28 @@
+Intégration [responsive] d'une maquette graphique avec Bootstrap et git
+
+0/Github
+. créer un projet sur votre compte github
+. nommer OrganicWebBootstrap_votrePrenom
+. mettre en collaborateur Nicolas et moi
+. synchroniser votre dépot local avec votre dépot distant
+
+1/Indications:
+ . maquette: Maquette_Orga.png
+ . images fournies: img/
+ . image home.jpg est utiliser dans la 1ere et 3e partie de la maquette
+ . travail individuel
+ . ressources illimités (en ligne, sur l'ordinateur)
+ . html/css/bootstrap
+
+
+2/ Ressources à utiliser:
+ . img/ pour les images
+ . font-awasone pour les icones
+
+
+3/ Critères évaluation:
+ . ressemblance à la maquette fournie
+ . code lisible, indenté et commenté
+ . responsive
+
+
